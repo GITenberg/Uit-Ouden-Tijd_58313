@@ -1,0 +1,24 @@
+_repo: Uit-Ouden-Tijd_58313
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Louwerse, Pieter
+    alias: Louwerse, P.
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '3977'
+    url: http://www.gutenberg.org/2009/agents/3977
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
+description: ''
+gutenberg_issued: '2018-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58313'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Uit Ouden Tijd
+url: http://www.gutenberg.org/ebooks/58313
